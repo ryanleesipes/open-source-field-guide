@@ -1,4 +1,4 @@
-# The Open Source Field Guide
+# The Mozilla Open Source Field Guide
 
 ## What is Open and Why Do We Do it?
 
