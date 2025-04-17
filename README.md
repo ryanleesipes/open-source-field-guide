@@ -4,7 +4,7 @@
 
 The Mozilla Project was born in 1998 with the release of the Netscape browser suite source code. This was done with the intention of harnessing the creative power of thousands of programmers on the Internet to fuel unprecedented levels of innovation in the browser market. Within the first year, new community members from around the world had already contributed new functionality, enhanced existing features and became engaged in the management and planning of the project itself.
 
-Open source and the co-creation of our products *is* Mozilla's Superpower. If we don't build things out in the open, we're not being true to who we are and we suffer for it. Conversely, by working out in the open and bringing talents and perspectives from outside the organization in - we gain a couple critical advantages:
+Open source and the co-creation of our products *is* Mozilla's Superpower. If we don't build things out in the open, we're not being true to who we are and we suffer for it. But by working out in the open and bringing talents and perspectives from outside the organization in - we gain a few critical advantages:
 
 1. **The ability to punch above our weight** and ship features, fix bugs and take on initiatives we would never be able to do with internal resources alone.
 2. **See around corners** by getting exposure to ideas and initiatives early, with the resulting feedback shaping decisions while they are still young (versus having a bad idea make it all the way to execution/release).
