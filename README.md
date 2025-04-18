@@ -8,7 +8,7 @@ The Mozilla Project was born in 1998 with the release of the Netscape browser su
 
 ### Why Be Open?
 
-Open source and the co-creation of our products *is* Mozilla's Superpower. If we don't build things out in the open, we're not being true to who we are and we suffer for it. But by working out in the open and bringing talents and perspectives from outside the organization in - we gain a few critical advantages:
+Open source and the co-creation of our products _is_ Mozilla's Superpower. If we don't build things out in the open, we're not being true to who we are and we suffer for it. But by working out in the open and bringing talents and perspectives from outside the organization in - we gain a few critical advantages:
 
 1. **The ability to punch above our weight** and ship features, fix bugs and take on initiatives we would never be able to do with internal resources alone.
 2. **See around corners** by getting exposure to ideas and initiatives early, with the resulting feedback shaping decisions while they are still young (versus having a bad idea make it all the way to execution/release).
@@ -37,5 +37,23 @@ Public _and_ participatory. This requires structuring efforts so that "outsiders
 ## Big Things to Remember about Working in the Open
 
 - **Make it _easy_ for your community to do important things**. Things like localization need to be easy in order to encourage adoption and use. If the community has to go back to the mother ship for every little thing, those little things will not happen.
-- **Surprise is overrated**. Lilly states that "surprise is the opposite of engagement," and therefore Mozilla's goal is to "increase the 'inner circle' of participation." By allowing more people to participate in "core" decisions, the core grows, and the friction to actually get things done by a growing body of people grows along with it.
+- **Surprise is overrated**. Former CEO John Lilly stated that "surprise is the opposite of engagement," and therefore Mozilla's goal is to "increase the 'inner circle' of participation." By allowing more people to participate in "core" decisions, the core grows, and the friction to actually get things done by a growing body of people grows along with it.
 - **Communities are not markets: members are citizens**. It's therefore important to treat them like active, valuable participants in open source, not consumers thereof because, as Lilly notes, such citizens "don't just make products better. They make them _what they are_."
+- **People yell because they want to be heard**. Most folk don't like confrontation. Most don't enjoy being yelled at. The thing to remember is that the folk yelling feel like they're not being heard. Taking the time to listen, talk, and address their concerns can help both sides understand the bigger picture. Often the loudest critic can become the greatest advocate, but it takes work. Treat folk the way we wished we were treated when we had that same level of frustration and anger, and often the sharp edges disappear.
+- **Embrace imperfection**. You are a human being. You make mistakes as do many others. Mistakes can be fixed and lessons can be learned. The greater problem is thinking you are perfect and that you have nothing to learn. That said, there are skills one can develop when talking with people. If you feel you don't have them, reach out to someone you think may and have them join you so you can learn. "It's like a customer service gig. Most folk may like it, some won't and a vocal number will complain. Those complaints are a fraction of the people who care about your code."
+
+## Resources
+
+Over the years, Mozilla has gained a lot of knowledge about working in the open, and we've tried to share it. That said, we still have a lot to learn.
+
+Here are some of the lessons we've talked about in the past:
+
+- [Working Open Workshop](https://mozillascience.github.io/working-open-workshop/) - A collection of presentation slides, worksheets and other docs from a Conference track about working Openly.
+
+- [Open Leadership Training Series](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/_articles/readme.md) - A training session built with the Mozilla Community about building and maintaining a community supported project.
+
+## What is "A Community"
+
+The [Mozilla Credits FAQ](https://www.mozilla.org/credits/faq/) does a fair job of describing members of the Community as those that "made a significant investment of time, with useful results, into Mozilla project-governed activities". The FAQ details what some of those terms mean, but understand that there are no strict definitions. It's fuzzy because most things involving people and social interactions are fuzzy.
+
+Working with a Community is working with a group of peers that help build, guide, and support a product. They are a huge asset to any project and can provide insight and assistance that you may not have thought possible. That said, they can be opinionated and, since they do not have access to all the information you do, may need to have things explained and clarified. Communication is paramount, both informing the Community of needed directions, as well as listening to the Community on requirements and concerns.
