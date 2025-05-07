@@ -4,30 +4,40 @@ So far we've covered how to be open in a very broad sense, but there is a lot of
 
 ## How to bring Mozilla's values into the open and into product creation
 
+All Mozilla projects and products should reflect values laid out in the [Mozilla Manifesto](https://www.mozilla.org/about/manifesto/). Everyone working on a Mozilla project should review the Manifesto. Below is a cheat sheet on how to apply these values to the work.
+
 ### Mozilla Manifesto Cheat Sheet - Core Values for All Projects
 
 **Open & Accessible**
+
 Keep the internet open, decentralized, and available to everyone.
 
 **Human-Centered**
+
 Design for individual empowerment, respect, and dignity.
 
 **Privacy & Security First**
+
 Make user privacy and security fundamental—not optional.
 
 **User Agency**
+
 Ensure people can control their digital lives and experiences.
 
 **Public Benefit Over Profit**
+
 Balance commercial success with a commitment to the public good.
 
 **Interoperability & Open Source**
+
 Embrace open standards and open-source development to promote innovation.
 
 **Transparency & Participation**
+
 Use transparent, community-driven processes that build trust and invite contribution.
 
 **Global Inclusion**
+
 Support a diverse, global community; design for equity and accessibility.
 
 ## Governance
