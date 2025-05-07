@@ -62,4 +62,4 @@ Working with a Community is working with a group of peers that help build, guide
 
 Now that we know what "Open" means and what "Community" in the Mozilla context is, we can move on to *how* to co-create and build great projects and initiatives within Mozilla.
 
-[How to be Open](how_to_be_open.md)
+**[Learn How to be Open](how_to_be_open.md)**
