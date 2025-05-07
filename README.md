@@ -57,3 +57,9 @@ Here are some of the lessons we've talked about in the past:
 The [Mozilla Credits FAQ](https://www.mozilla.org/credits/faq/) does a fair job of describing members of the Community as those that "made a significant investment of time, with useful results, into Mozilla project-governed activities". The FAQ details what some of those terms mean, but understand that there are no strict definitions. It's fuzzy because most things involving people and social interactions are fuzzy.
 
 Working with a Community is working with a group of peers that help build, guide, and support a product. They are a huge asset to any project and can provide insight and assistance that you may not have thought possible. That said, they can be opinionated and, since they do not have access to all the information you do, may need to have things explained and clarified. Communication is paramount, both informing the Community of needed directions, as well as listening to the Community on requirements and concerns.
+
+# How to be Open
+
+Now that we know what "Open" means and what "Community" in the Mozilla context is, we can move on to *how* to co-create and build great projects and initiatives within Mozilla.
+
+[How to be Open](how_to_be_open.md)
