@@ -2,6 +2,34 @@
 
 So far we've covered how to be open in a very broad sense, but there is a lot of nuance in the practice of being open. This section aims to lay out practical best practices for those standing up and running open source projects.
 
+## How to bring Mozilla's values into the open and into product creation
+
+### Mozilla Manifesto Cheat Sheet - Core Values for All Projects
+
+**Open & Accessible**
+Keep the internet open, decentralized, and available to everyone.
+
+**Human-Centered**
+Design for individual empowerment, respect, and dignity.
+
+**Privacy & Security First**
+Make user privacy and security fundamental—not optional.
+
+**User Agency**
+Ensure people can control their digital lives and experiences.
+
+**Public Benefit Over Profit**
+Balance commercial success with a commitment to the public good.
+
+**Interoperability & Open Source**
+Embrace open standards and open-source development to promote innovation.
+
+**Transparency & Participation**
+Use transparent, community-driven processes that build trust and invite contribution.
+
+**Global Inclusion**
+Support a diverse, global community; design for equity and accessibility.
+
 ## Governance
 
 ## Who Interacts With the Public?
